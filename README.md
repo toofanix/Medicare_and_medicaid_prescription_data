@@ -4,4 +4,7 @@ The notebooks in this repository perform exploratory analysis on the data aviala
 
 There are 3 notebooks in this repository.
 
-1. 
+1. Prescription Data - Exploratory Analysis
+The notebook provides valuable information and statistics about the doctors. It provides information about distriubtion of doctors based on the region that they are from, gender etc. , and percent of doctor belonging to each specialty.
+
+2.
