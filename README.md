@@ -16,6 +16,8 @@ The notebook provides valuable information and statistics about the doctors. It 
 
 The notebook uses Logistic Regression using the drugs prescribed by a doctor/practitioner as input features and tries to predict gender, specialty and region. Using logistic regression it is possible to predict the specialty of the preactitioner with ~81% accuracy. It is interesting to note that some specialties (Adult Health and Medical) are hard to predict and are mostly mis-classified as Family. I use LIME to understand the regression model for the specialty 'Psychiatry' and 'Adult Health' to understand how and which features are used for prediction.
 
+**LINK : http://nbviewer.jupyter.org/github/toofanix/Medicare_and_medicaid_prescription_data/blob/master/Prescription_Data-Machine_Learning-Supervised_Learning.html**
+
 3. Prescription Data - Low Dimensional Representation and Unsupervised Machine Learning
 
 The notebook using PCA, Isomap and TSNE to generate a low-dimensional representation of the prescription data. Using TSNE it can be observed that specialties 'Cardiovascular Disease', 'Endocrinology, Diabetes & Metabolism', 'Geriatric Medicine', 'Nephrology', 'Neurology', 'Psychiatry' and 'Rheumatology' form separate clusters whereas 'Adult Health', 'Family' and 'Medical' overlap and form one cluster. The 3D visualization gives us a better sense of why regression analysis in the preivous notebook was unable to predict the specialties 'Adult Health', 'Family' and 'Medical' robustly.
