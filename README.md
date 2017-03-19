@@ -6,11 +6,11 @@ There are 3 notebooks in this repository.
 
 *(NOTE : Some of the notebooks are not rendered properly on GitHub. Please click on the link to the nbviewer to access these notebooks).*
 
-# 1. **Prescription Data - Exploratory Analysis**
+# 1. Prescription Data - Exploratory Analysis
 
 The notebook provides valuable information and statistics about the doctors. It provides information about distriubtion of doctors based on the region that they are from, gender etc. , and percent of doctor belonging to each specialty.
 
-LINK : http://nbviewer.jupyter.org/github/toofanix/Medicare_and_medicaid_prescription_data/blob/master/Prescription%20Data%20-%20Exploratory%20Analysis.ipynb
+**LINK : http://nbviewer.jupyter.org/github/toofanix/Medicare_and_medicaid_prescription_data/blob/master/Prescription%20Data%20-%20Exploratory%20Analysis.ipynb**
 
 2. Prescription Data - Machine Learning - Supervised Learning
 
