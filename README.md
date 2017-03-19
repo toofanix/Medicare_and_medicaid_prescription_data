@@ -10,6 +10,8 @@ There are 3 notebooks in this repository.
 
 The notebook provides valuable information and statistics about the doctors. It provides information about distriubtion of doctors based on the region that they are from, gender etc. , and percent of doctor belonging to each specialty.
 
+LINK : http://nbviewer.jupyter.org/github/toofanix/Medicare_and_medicaid_prescription_data/blob/master/Prescription%20Data%20-%20Exploratory%20Analysis.ipynb
+
 2. Prescription Data - Machine Learning - Supervised Learning
 
 The notebook uses Logistic Regression using the drugs prescribed by a doctor/practitioner as input features and tries to predict gender, specialty and region. Using logistic regression it is possible to predict the specialty of the preactitioner with ~81% accuracy. It is interesting to note that some specialties (Adult Health and Medical) are hard to predict and are mostly mis-classified as Family. I use LIME to understand the regression model for the specialty 'Psychiatry' and 'Adult Health' to understand how and which features are used for prediction.
