@@ -14,4 +14,7 @@ The notebook uses Logistic Regression using the drugs prescribed by a doctor/pra
 
 3. Prescription Data - Low Dimensional Representation and Unsupervised Machine Learning
 
-The notebook using PCA, Isomap and TSNE to generate a low-dimensional representation of the prescription data. Using TSNE it can be observed that certain specialties (
+The notebook using PCA, Isomap and TSNE to generate a low-dimensional representation of the prescription data. Using TSNE it can be observed that specialties 'Cardiovascular Disease', 'Endocrinology, Diabetes & Metabolism', 'Geriatric Medicine', 'Nephrology', 'Neurology', 'Psychiatry' and 'Rheumatology' form separate clusters whereas 'Adult Health', 'Family' and 'Medical' overlap and form one cluster. The 3D visualization gives us a better sense of why regression analysis in the preivous notebook was unable to predict the specialties 'Adult Health', 'Family' and 'Medical' robustly.
+
+The notebook also has some preliminary clustering analysis using KMeans, DBSCAN, Affinity Propogation and HDBSCAN*. 
+
